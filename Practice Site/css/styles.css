@@ -90,7 +90,9 @@ img .imgsmall{
     color:black;
 }
 
-
+.bordergreen{
+    border:green solid 5px;
+}
 
 
 
